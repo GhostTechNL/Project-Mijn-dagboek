@@ -1,3 +1,2 @@
-# dagboek
-dit is een opdracht die ik bij mijn stage moest maken. In deze opdracht heb ik met php classes gewerkt. 
-De talen die ik voor dit project heb gebruik zijn PHP HTML CSS en bootstrap.
+# Project dagboek
+Een project die vanuit mijn eerste page periode kreeg om aan te werken. Het doel van het project was om objectief te programmeren. Daarnaast moest er 'dagboeken' aangemaakt worden en opgeslagen worden op een veilige manier. 
